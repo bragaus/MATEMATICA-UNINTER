@@ -9,12 +9,17 @@ Bem-vindo ao meu repositório de anotações, projetos, códigos e experiências
 ```text
 MATEMATICA-UNINTER/
 ├── semestre1/                      
-│   ├── introducao-a-geometria-analitica/
-│   └── fundamentos-da-matematica/         
+│   ├── fundamentos-da-matematica/           
+│   └── introducao-a-geometria-analitica/         
 ├── semestre2/                       
 │   └── ...
-├── canivete-matematico-cpp/         # Biblioteca C++ para funções matemáticas
-│   ├── include/                     # Arquivos de header (declarações)
-│   └── src/                         # Código-fonte (implementações)
-└── README.md                        # Documentação principal
+├── canivete-matematico-cpp/                 # Biblioteca C++ para funções matemáticas
+│   ├── include/                             # Arquivos de header (declarações)
+│   └── src/                                 # Código-fonte (implementações)
+└── README.md                                # Você está aqui (ou não)
 ```
+## 🔧 O Projeto: Canivete Suíço da Matemática
+
+Tudo que eu aprender na faculdade... vai virar **código C++**. A ideia é criar uma **biblioteca própria** de funções matemáticas úteis, resoluções de problemas clássicos e algoritmos que unem **matemática pura** com **engenharia de software**.
+
+> 🎯 Se o código não rodar, o problema é no hardware do universo.
