@@ -26,9 +26,9 @@ Tudo que eu aprender na faculdade... vai virar **código C++**. A ideia é criar
 
 ```cpp
 //===============================================  
-//  CYBER-MATH ++ | [THE MATRIX HAS YOU]  
+//  CYBER-MATH ++ | [A MATRIX É VOCÊ]  
 //  (c) 2025 - AGENTE [REDACTED]  
-//  DISCLAIMER: This code breaks the 4th wall.  
+//  DISCLAIMER: Esse cod quebra a quarta parede
 //===============================================
 
 while (vida) {
