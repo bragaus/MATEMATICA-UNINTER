@@ -1,6 +1,9 @@
-# 🧨🧠 FACULDADE DE MATEMÁTICA
-> "Não quero só aprender matemática... quero **codificar** ela." — Eu, programando às 3 da manhã
-Bem-vindo ao meu repositório de anotações, projetos, códigos e experiências enquanto curso **Bacharelado em Matemática** — com um viés totalmente voltado para **computação**, especialmente com foco em **C++**. Aqui você vai encontrar tudo que estou aprendendo, mas em formato de código, automação e *exploração criativa*.
+# 🧨🧠 FACULDADE DE MATEMÁTICA  
+
+> *"Não quero só aprender matemática... quero **codificar** ela."*  
+> — Eu, programando às 3 da manhã  
+
+Bem-vindo ao meu repositório de anotações, projetos, códigos e experiências enquanto curso **Bacharelado em Matemática** - com um viés totalmente voltado para **computação**, especialmente com foco em **C++**. Aqui você vai encontrar tudo que estou aprendendo, mas em formato de código, automação e *exploração criativa*. 
 
 ---
 ## 📦 Estrutura do repositório
