@@ -22,4 +22,12 @@ MATEMATICA-UNINTER/
 
 Tudo que eu aprender na faculdade... vai virar **código C++**. A ideia é criar uma **biblioteca própria** de funções matemáticas úteis, resoluções de problemas clássicos e algoritmos que unem **matemática pura** com **engenharia de software**.
 
-> 🎯 Se o código não rodar, o problema é no hardware do universo.
+> 🧙‍♂️ Se o código não rodar, o problema é no hardware do universo.
+
+```cpp
+while (vida) {
+    estudar();
+    codar();
+    compilar_com_raiva();
+}
+```
