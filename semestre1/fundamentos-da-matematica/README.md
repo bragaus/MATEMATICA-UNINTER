@@ -15,7 +15,7 @@
 Nesta aula, foram estudados os seguintes temas fundamentais:
 
 ### 🔹 Teorema de Tales
-- [Teorema de Tales](./tales.md)
+- [Teorema de Tales](./TALES.md)
 - Afirma que segmentos determinados por feixes de retas paralelas cortadas por transversais são proporcionais.
 - Aplicado em situações como a medição indireta de alturas (ex: prédios, postes).
 
