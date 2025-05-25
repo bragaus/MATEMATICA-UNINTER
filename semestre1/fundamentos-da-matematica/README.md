@@ -31,6 +31,7 @@ Nesta aula, foram estudados os seguintes temas fundamentais:
 3. **LLL (Lado-Lado-Lado)**
 
 ### 🔹 Relações Métricas no Triângulo Retângulo
+- [Relações Métricas](./RELACOES-METRICAS.md)
 - Um triângulo retângulo possui um ângulo de 90°.
 - Os lados são: **hipotenusa (a)**, **cateto b**, **cateto c**.
 
