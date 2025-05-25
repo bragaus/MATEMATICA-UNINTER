@@ -20,6 +20,7 @@ Nesta aula, foram estudados os seguintes temas fundamentais:
 - Aplicado em situações como a medição indireta de alturas (ex: prédios, postes).
 
 ### 🔹 Semelhança de Triângulos
+- [Teorema de Tales](./SEMELHANCA-TRIANGULOS.md)
 Dois triângulos são semelhantes quando:
 - Seus **ângulos correspondentes são congruentes**, e
 - Seus **lados correspondentes são proporcionais**.
