@@ -45,6 +45,7 @@ Nesta aula, foram estudados os seguintes temas fundamentais:
   - `a = m + n`
 
 ### 🔹 Relações Trigonométricas
+- [Relações Trigonometricas](./RELACOES-TRIGONOMETRICAS.md)
 **Com base em um triângulo retângulo:**
 - **Seno**: `sen(α) = cateto oposto / hipotenusa`
 - **Cosseno**: `cos(α) = cateto adjacente / hipotenusa`
