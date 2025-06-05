@@ -44,9 +44,6 @@ Cada conceito aqui documentado pode ser aplicado tanto em ciência como em engen
 
 > "Programar é como traduzir leis do universo para a máquina."
 
-Ao transformar um teorema em uma função C++, você não está apenas resolvendo um problema. Você está **codificando uma ideia eterna** que estrutura o próprio tecido da realidade.
-
-Cada estrutura de dados é uma constelação. Cada equação, uma partitura das leis cósmicas.
 ---
 
 ## 📂 Exemplos Futuramente Disponíveis
