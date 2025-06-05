@@ -2,10 +2,6 @@
 
 > “A matemática é a linguagem com a qual Deus escreveu o universo.” — Galileu Galilei
 
-## 🌌 Visão
-
-Este diretório faz parte da jornada **Exodus** — um projeto que combina matemática, programação e exploração do cosmos. Aqui, buscamos entender o universo como um sistema coerente de padrões, simetrias e transformações que podem ser descritos com rigor e elegância... e também **codificados em C++**.
-
 ---
 
 ## 📚 Estrutura dos Conteúdos
