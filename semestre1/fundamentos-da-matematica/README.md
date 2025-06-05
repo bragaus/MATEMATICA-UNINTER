@@ -1,39 +1,94 @@
-🧠 fundamentos-da-matematica
-“A matemática é a linguagem com a qual Deus escreveu o universo.” — Galileu Galilei
+# 🧠 fundamentos-da-matematica
 
-🌌 Visão
-Este repositório é a base do projeto Exodus, uma jornada para desvendar os segredos do cosmos através da matemática. Aqui, buscamos compreender como as estruturas matemáticas moldam a realidade, desde as partículas subatômicas até as galáxias distantes.
+> “A matemática é a linguagem com a qual Deus escreveu o universo.” — Galileu Galilei
 
-📚 Conteúdo
-Inspirados na coleção Fundamentos da Matemática Elementar de Gelson Iezzi e colaboradores, organizamos o conteúdo em módulos que refletem diferentes aspectos do universo:
+## 🌌 Visão
 
-Conjuntos e Funções: A fundação de tudo, onde definimos os elementos que compõem o universo e as relações entre eles.
+Este diretório faz parte da jornada **Exodus** — um projeto que combina matemática, programação e exploração do cosmos. Aqui, buscamos entender o universo como um sistema coerente de padrões, simetrias e transformações que podem ser descritos com rigor e elegância... e também **codificados em C++**.
 
-Sequências e Progressões: Exploramos padrões e ritmos que permeiam a natureza, como as órbitas planetárias e as espirais das galáxias.
+---
 
-Geometria Analítica: Estudamos o espaço e suas dimensões, traçando mapas que nos guiam pelas curvas do espaço-tempo.
+## 📚 Estrutura dos Conteúdos
 
-Trigonometria: Analisamos as ondas e vibrações que compõem a sinfonia cósmica.
+Inspirado na coleção *Fundamentos da Matemática Elementar*, este módulo organiza os tópicos fundamentais da graduação em matemática com aplicações práticas e computacionais:
 
-Álgebra Linear: Investigamos as transformações e simetrias que estruturam a realidade.
+1. `tales.md` — Teorema de Tales
+2. `semelhanca-triangulos.md` — Semelhança de Triângulos
+3. `relacoes-metricas.md` — Relações Métricas no Triângulo Retângulo
+4. `relacoes-trigonometricas.md` — Razões Trigonométricas
+5. `lei-dos-senos-e-cossenos.md` — Leis dos Senos e Cossenos
+6. `teorema-das-areas.md` — Cálculo de Áreas em Triângulos
+7. `exemplos-praticos.md` — Aplicações técnicas, espaciais e computacionais
 
-Cálculo Diferencial e Integral: Mergulhamos nas mudanças e fluxos que impulsionam o universo.
+Cada arquivo segue a seguinte estrutura:
 
-Probabilidade e Estatística: Avaliamos as incertezas e padrões que emergem do caos aparente.
+- Definições matemáticas e fórmulas (com LaTeX)
+- Analogias interpretativas para despertar novas ideias
+- Aplicações cósmicas e científicas
+- Casos de uso em **C++**, com foco em simulações, visualização e resolução simbólica/numérica
 
-🧬 Aplicações Cósmicas
-Cada conceito matemático aqui estudado tem aplicações que transcendem o papel:
+---
 
-Física Teórica: Modelagem de partículas e forças fundamentais.
+## 🧬 Aplicações Cósmicas e Computacionais
 
-Astrofísica: Cálculo de trajetórias e análise de fenômenos celestes.
+Cada conceito aqui documentado pode ser aplicado tanto em ciência como em engenharia de software:
 
-Engenharia Espacial: Projeto de naves e sistemas de navegação interplanetária.
+| Tema Matemático        | Aplicações no Universo                  | Implementações em C++                           |
+|------------------------|------------------------------------------|-------------------------------------------------|
+| Teorema de Tales       | Triangulação em superfícies planetárias | Algoritmos de mapeamento e renderização 2D/3D   |
+| Semelhança de Triângulos | Cálculo de distâncias estelares        | Reconhecimento de padrões e visão computacional |
+| Trigonometria          | Navegação de satélites e robôs          | Cálculo de ângulos, transformações em OpenGL    |
+| Lei dos Senos/Cossenos| Orbitas e manobras gravitacionais       | Simulação de órbitas e trajetória em n-corpos   |
+| Áreas de Triângulos    | Painéis solares em satélites            | Cálculo de áreas com `struct Point` e vetores   |
+| Relações métricas      | Engenharia de módulos espaciais         | Classes para geometria computacional            |
 
-Inteligência Artificial: Desenvolvimento de algoritmos para exploração e análise de dados cósmicos.
+---
 
-🌀 Analogia Psicodélica
-Imagine a matemática como uma mandala cósmica, onde cada equação é um padrão que revela uma parte do todo. Ao contemplar essas formas, expandimos nossa consciência e nos conectamos com a essência do universo.
+## 🌀 Analogia Psicodélica
 
-🚀 Junte-se à Jornada
-Convidamos você a explorar, contribuir e compartilhar insights nesta odisséia matemática. Juntos, podemos desvendar os mistérios do cosmos e encontrar nosso lugar entre as estrelas.
+> "Programar é como traduzir leis do universo para a máquina."
+
+Ao transformar um teorema em uma função C++, você não está apenas resolvendo um problema. Você está **codificando uma ideia eterna** que estrutura o próprio tecido da realidade.
+
+Cada estrutura de dados é uma constelação. Cada equação, uma partitura das leis cósmicas.
+
+---
+
+## 🚀 Exodus: A Missão
+
+**Exodus** é o nome do grupo de exploradores (matemáticos, programadores, sonhadores) que acreditam que o conhecimento é a nave mais potente que a humanidade já construiu.
+
+Nosso objetivo:
+
+- Estudar profundamente cada conceito matemático
+- Codificar cada um deles em C++
+- Criar simulações, visualizações e bibliotecas educacionais
+- Aplicar esse conhecimento para entender, explorar e um dia... talvez... partir
+
+---
+
+## 📂 Exemplos Futuramente Disponíveis
+
+- `src/geometry/triangle.hpp` — Cálculo de área, projeções e métricas
+- `src/orbit/trajectory.cpp` — Leis dos senos e cossenos aplicadas a órbitas
+- `src/render/fractal.cpp` — Representação gráfica de semelhanças
+- `src/utils/angle.hpp` — Conversões, radianos, ângulos notáveis
+
+---
+
+## 🧠 Filosofia
+
+> A matemática revela o que está oculto.  
+> A programação nos permite tocar o invisível.  
+> E juntos, nos levam além das fronteiras conhecidas.
+
+---
+
+## 📥 Contribua
+
+Sinta-se livre para clonar, estudar, experimentar e contribuir.  
+A nave Exodus aceita todos que buscam o conhecimento.
+
+```bash
+git clone https://github.com/bragaus/MATEMATICA-UNINTER.git
+cd fundamentos-da-matematica/
