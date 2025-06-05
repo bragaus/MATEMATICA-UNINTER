@@ -26,7 +26,8 @@ MATEMATICA-UNINTER/
 │   ├── include/                        # Headers com fórmulas, constantes, structs
 │   └── src/                            # Implementações, testes, algoritmos aplicados
 └── README.md                           # Você está aqui (ou talvez já esteja em Alpha Centauri)
-
+```
+---
 //===============================================  
 //  CYBER-MATH ++ | [A MATRIX É VOCÊ]  
 //  (c) 2025 - AGENTE [REDACTED]  
