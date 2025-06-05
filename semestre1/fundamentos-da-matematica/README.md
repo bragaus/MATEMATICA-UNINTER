@@ -1,119 +1,39 @@
-# 📚 Fundamentos da Matemática - Aula 1
+🧠 fundamentos-da-matematica
+“A matemática é a linguagem com a qual Deus escreveu o universo.” — Galileu Galilei
 
-**Disciplina:** Fundamentos da Matemática  
-**Assunto:** Trigonometria no Triângulo  
-**Professores:**  
-- Ana Paula de Andrade Janz Elias  
-- Denise Terezinha Marques Wolski  
-- Flavia Sucheck Mateus da Rocha  
-- Taniele Loss Nesi
+🌌 Visão
+Este repositório é a base do projeto Exodus, uma jornada para desvendar os segredos do cosmos através da matemática. Aqui, buscamos compreender como as estruturas matemáticas moldam a realidade, desde as partículas subatômicas até as galáxias distantes.
 
----
+📚 Conteúdo
+Inspirados na coleção Fundamentos da Matemática Elementar de Gelson Iezzi e colaboradores, organizamos o conteúdo em módulos que refletem diferentes aspectos do universo:
 
-## ✨ Conteúdo abordado
+Conjuntos e Funções: A fundação de tudo, onde definimos os elementos que compõem o universo e as relações entre eles.
 
-Nesta aula, foram estudados os seguintes temas fundamentais:
+Sequências e Progressões: Exploramos padrões e ritmos que permeiam a natureza, como as órbitas planetárias e as espirais das galáxias.
 
-### 🔹 Teorema de Tales
-- [Teorema de Tales](./teorema-de-tales.md)
-- Afirma que segmentos determinados por feixes de retas paralelas cortadas por transversais são proporcionais.
-- Aplicado em situações como a medição indireta de alturas (ex: prédios, postes).
+Geometria Analítica: Estudamos o espaço e suas dimensões, traçando mapas que nos guiam pelas curvas do espaço-tempo.
 
-### 🔹 Semelhança de Triângulos
-- [Semelhança de Triângulos](./SEMELHANCA-TRIANGULOS.md)
-- Dois triângulos são semelhantes quando:
-- Seus **ângulos correspondentes são congruentes**, e
-- Seus **lados correspondentes são proporcionais**.
+Trigonometria: Analisamos as ondas e vibrações que compõem a sinfonia cósmica.
 
-**Casos de semelhança:**
-1. **AA (Ângulo-Ângulo)**
-2. **LAL (Lado-Ângulo-Lado)**
-3. **LLL (Lado-Lado-Lado)**
+Álgebra Linear: Investigamos as transformações e simetrias que estruturam a realidade.
 
-### 🔹 Relações Métricas no Triângulo Retângulo
-- [Relações Métricas](./RELACOES-METRICAS.md)
-- Um triângulo retângulo possui um ângulo de 90°.
-- Os lados são: **hipotenusa (a)**, **cateto b**, **cateto c**.
+Cálculo Diferencial e Integral: Mergulhamos nas mudanças e fluxos que impulsionam o universo.
 
-**Relações importantes:**
-- Teorema de Pitágoras: `a² = b² + c²`
-- Outras relações:
-  - `h² = m × n`
-  - `c² = a × n`
-  - `b² = a × m`
-  - `a × h = b × c`
-  - `a = m + n`
+Probabilidade e Estatística: Avaliamos as incertezas e padrões que emergem do caos aparente.
 
-### 🔹 Relações Trigonométricas
-- [Relações Trigonometricas](./RELACOES-TRIGONOMETRICAS.md)
-**Com base em um triângulo retângulo:**
-- **Seno**: `sen(α) = cateto oposto / hipotenusa`
-- **Cosseno**: `cos(α) = cateto adjacente / hipotenusa`
-- **Tangente**: `tg(α) = cateto oposto / cateto adjacente`
+🧬 Aplicações Cósmicas
+Cada conceito matemático aqui estudado tem aplicações que transcendem o papel:
 
-**Relações inversas:**
-- **Secante**: `sec(α) = 1 / cos(α)`
-- **Cossecante**: `cossec(α) = 1 / sen(α)`
-- **Cotangente**: `cotg(α) = 1 / tg(α)`
+Física Teórica: Modelagem de partículas e forças fundamentais.
 
-### 🔹 Lei dos Senos
-Em qualquer triângulo:
+Astrofísica: Cálculo de trajetórias e análise de fenômenos celestes.
 
-a / sen(A) = b / sen(B) = c / sen(C)
-Ou ainda:
-a / sen(A) = b / sen(B) = c / sen(C) = 2R
+Engenharia Espacial: Projeto de naves e sistemas de navegação interplanetária.
 
-> Onde `R` é o raio da circunferência circunscrita.
+Inteligência Artificial: Desenvolvimento de algoritmos para exploração e análise de dados cósmicos.
 
-### 🔹 Lei dos Cossenos
-Relaciona os lados e cossenos dos ângulos:
-a² = b² + c² - 2bc × cos(α)
-b² = a² + c² - 2ac × cos(β)
-c² = a² + b² - 2ab × cos(φ)
+🌀 Analogia Psicodélica
+Imagine a matemática como uma mandala cósmica, onde cada equação é um padrão que revela uma parte do todo. Ao contemplar essas formas, expandimos nossa consciência e nos conectamos com a essência do universo.
 
-### 🔹 Teorema das Áreas
-Área de um triângulo com dois lados e o seno do ângulo entre eles:
-
-A = (a × b × sen(α)) / 2
-= (b × c × sen(θ)) / 2
-= (c × a × sen(β)) / 2
-
----
-
-## 🛠️ Aplicação Prática
-
-> Exemplo: Calcular a altura de um prédio usando trigonometria
-
-Dado um ângulo de 30° e a base (adjacente) de 20m:
-
-tg(30°) = x / 20
-√3 / 3 = x / 20
-3x = 20√3
-x = (20√3)/3 ≈ altura
-
-Esse exemplo mostra a importância dos **ângulos notáveis (30°, 45°, 60°)** e suas razões trigonométricas conhecidas.
-
----
-
-## ✅ Resumo
-
-- ✅ Teorema de Tales  
-- ✅ Semelhança de triângulos  
-- ✅ Teorema de Pitágoras  
-- ✅ Relações métricas  
-- ✅ Seno, cosseno, tangente, secante, cossecante, cotangente  
-- ✅ Leis dos senos e cossenos  
-- ✅ Teorema das áreas  
-
----
-
-## 📚 Referências
-
-- DOLCE, O.; POMPEO, J. N. *Fundamentos de Matemática Elementar*, Vol. 9 e 10.  
-- IEZZI, G. *Fundamentos de Matemática Elementar*, Vol. 2 e 3.  
-- LEITE, A. E.; CASTANHEIRA, N. P. *Geometria Plana e Trigonometria*.  
-- OLIVEIRA, C. A. M. *Matemática* – InterSaberes.
-
----
-
-> 📌 _Este repositório é um diário de bordo da minha graduação em Matemática pela UNINTER. Toda semana tem atualização!_  
+🚀 Junte-se à Jornada
+Convidamos você a explorar, contribuir e compartilhar insights nesta odisséia matemática. Juntos, podemos desvendar os mistérios do cosmos e encontrar nosso lugar entre as estrelas.
