@@ -34,10 +34,11 @@ MATEMATICA-UNINTER/
 //  DISCLAIMER: Esse código atravessa dimensões
 //===============================================
 
+```text
 while (vida) {
     estudar();
     codar();
     compilar_com_raiva();
 }
-
+```
 C++でR言語を作る
