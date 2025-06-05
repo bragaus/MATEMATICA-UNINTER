@@ -1,4 +1,4 @@
-# 🧨🧠 FACULDADE DE MATEMÁTICA — EXODUS PROJECT
+# 🧨🧠 FACULDADE DE MATEMÁTICA
 
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
