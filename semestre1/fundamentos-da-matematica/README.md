@@ -47,20 +47,6 @@ Cada conceito aqui documentado pode ser aplicado tanto em ciência como em engen
 Ao transformar um teorema em uma função C++, você não está apenas resolvendo um problema. Você está **codificando uma ideia eterna** que estrutura o próprio tecido da realidade.
 
 Cada estrutura de dados é uma constelação. Cada equação, uma partitura das leis cósmicas.
-
----
-
-## 🚀 Exodus: A Missão
-
-**Exodus** é o nome do grupo de exploradores (matemáticos, programadores, sonhadores) que acreditam que o conhecimento é a nave mais potente que a humanidade já construiu.
-
-Nosso objetivo:
-
-- Estudar profundamente cada conceito matemático
-- Codificar cada um deles em C++
-- Criar simulações, visualizações e bibliotecas educacionais
-- Aplicar esse conhecimento para entender, explorar e um dia... talvez... partir
-
 ---
 
 ## 📂 Exemplos Futuramente Disponíveis
