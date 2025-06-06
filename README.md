@@ -1,4 +1,6 @@
-# 🧨🧠 FACULDADE DE MATEMÁTICA
+# 🧨🧠 Bacharelado em Matemática
+
+[![Cosmic Explorer](https://img.shields.io/badge/Exodus-Space_Group-9cf?logo=starship&style=for-the-badge)](https://github.com/bragaus/MATEMATICA-UNINTER)
 
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
