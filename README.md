@@ -1,4 +1,4 @@
-## [![Cosmic Explorer](https://img.shields.io/badge/Bacharelado_em_Matematica-UNINTER-9cf?logo=starship&style=for-the-badge)](https://github.com/bragaus/MATEMATICA-UNINTER)
+# [![Cosmic Explorer](https://img.shields.io/badge/Bacharelado_em_Matematica-UNINTER-9cf?logo=starship&style=for-the-badge)](https://github.com/bragaus/MATEMATICA-UNINTER)
 
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
