@@ -4,10 +4,6 @@
 
 ---
 
-## 📚 Estrutura dos Conteúdos
-
-Inspirado na coleção *Fundamentos da Matemática Elementar*, este módulo organiza os tópicos fundamentais da graduação em matemática com aplicações práticas e computacionais:
-
 1. [Teorema de Tales](./1-teorema-de-tales.md)
 2. [Semelhança de Triângulos](./1-semelhanca-de-triangulos.md)
 3. [Relações Métricas no Triângulo Retângulo](./3-relacoes-metricas.md)  
