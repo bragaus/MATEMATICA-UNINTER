@@ -13,6 +13,9 @@
      1.6. [Cálculo de Áreas em Triângulos](6-teorema-das-areas.md)  
  1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)  
 
+2 Equações exponenciais e logarítmicas
+
+
 Cada arquivo segue a seguinte estrutura:
 
 - Definições matemáticas e fórmulas (com LaTeX)
