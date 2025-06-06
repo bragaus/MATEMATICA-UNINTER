@@ -4,7 +4,6 @@
 
 ---
 
-```text
 1 =========================== TRIGONOMETRIA NOS TRIÂNGULOS ===================================
       1.1. [Teorema de Tales](./1-teorema-de-tales.md)
   1.2. [Semelhança de Triângulos](./1-semelhanca-de-triangulos.md)
@@ -15,7 +14,6 @@
           1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)
 1 ===============================================================================================
 
-```
 Cada arquivo segue a seguinte estrutura:
 
 - Definições matemáticas e fórmulas (com LaTeX)
