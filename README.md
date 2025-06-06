@@ -13,7 +13,7 @@ Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enqua
   <img src="./logo-exodus.png" alt="Logo do Projeto Exodus" width="300"/>
 </p>
 
-**Exodus** é uma *visão*: usar matemática e programação e arte para entender, representar e navegar pelo espaço.
+**Exodus** é uma *visão*: usar matemática, programação e arte para entender, representar e navegar pelo espaço.
 
 ---
 
