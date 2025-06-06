@@ -11,7 +11,7 @@ Inspirado na coleção *Fundamentos da Matemática Elementar*, este módulo orga
 1. [Teorema de Tales](./1-teorema-de-tales.md)
 2. [Semelhança de Triângulos](./1-semelhanca-de-triangulos.md)
 3. [Relações Métricas no Triângulo Retângulo](./3-relacoes-metricas.md)  
-4. `relacoes-trigonometricas.md` — Razões Trigonométricas
+4. [Relações Trigonométricas](4-relacoes-trigonometricas.md)
 5. `lei-dos-senos-e-cossenos.md` — Leis dos Senos e Cossenos
 6. `teorema-das-areas.md` — Cálculo de Áreas em Triângulos
 7. `exemplos-praticos.md` — Aplicações técnicas, espaciais e computacionais
