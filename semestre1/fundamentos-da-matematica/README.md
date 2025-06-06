@@ -8,7 +8,7 @@
 
 Inspirado na coleção *Fundamentos da Matemática Elementar*, este módulo organiza os tópicos fundamentais da graduação em matemática com aplicações práticas e computacionais:
 
-1. `[Teorema de Tales]`(./teorema-de-tales.md)
+1. `[Teorema de Tales](./teorema-de-tales.md)`
 2. `semelhanca-triangulos.md` — Semelhança de Triângulos
 3. `relacoes-metricas.md` — Relações Métricas no Triângulo Retângulo
 4. `relacoes-trigonometricas.md` — Razões Trigonométricas
