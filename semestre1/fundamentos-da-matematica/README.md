@@ -4,13 +4,15 @@
 
 ---
 
-1. [Teorema de Tales](./1-teorema-de-tales.md)
-2. [Semelhança de Triângulos](./1-semelhanca-de-triangulos.md)
-3. [Relações Métricas no Triângulo Retângulo](./3-relacoes-metricas.md)  
-4. [Relações Trigonométricas](4-relacoes-trigonometricas.md)
-5. [Leis dos Senos e Cossenos](5-lei-dos-senos-e-cossenos.md)
-6. [Cálculo de Áreas em Triângulos](6-teorema-das-areas.md)
-7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)
+1 =========================== TRIGONOMETRIA NOS TRIÂNGULOS ===================================
+      1.1. [Teorema de Tales](./1-teorema-de-tales.md)
+  1.2. [Semelhança de Triângulos](./1-semelhanca-de-triangulos.md)
+      1.3. [Relações Métricas no Triângulo Retângulo](./3-relacoes-metricas.md)  
+  1.4. [Relações Trigonométricas](4-relacoes-trigonometricas.md)
+        1.5. [Leis dos Senos e Cossenos](5-lei-dos-senos-e-cossenos.md)
+  1.6. [Cálculo de Áreas em Triângulos](6-teorema-das-areas.md)
+          1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)
+1 ===============================================================================================
 
 Cada arquivo segue a seguinte estrutura:
 
