@@ -6,7 +6,7 @@
 
 1 TRIGONOMETRIA NOS TRIÂNGULOS  
    1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
- 1.2. [Semelhança de Triângulos](./1.2-semelhanca-de-triangulos.md)  
+ 1.2. [Semelhança de Triângulos](1.2-semelhanca-triangulos.md)  
     1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)   
  1.4. [Relações Trigonométricas](1.4-relacoes-trigonometricas.md)  
            1.5. [Leis dos Senos e Cossenos](1.5-lei-dos-senos-e-cossenos.md)  
