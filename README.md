@@ -9,6 +9,10 @@ Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enqua
 
 ## 🌌 O Projeto: **Exodus**
 
+<p align="center">
+  <img src="./logo-exodus.png" alt="Logo do Projeto Exodus" width="300"/>
+</p>
+
 **Exodus** é mais que um grupo de amigos — é uma *visão*: usar matemática e programação para entender, representar e navegar pelo espaço.
 
 ---
