@@ -13,8 +13,8 @@
 1.6. [Cálculo de Áreas em Triângulos](1.6-teorema-das-areas.md)  
 1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)  
 
-2 Equações exponenciais e logarítmicas
-2.1.[Potenciação](./2.1-portenciacao.md)  
+2 Equações exponenciais e logarítmicas  
+2.1.[Potenciação](./2.1-portenciacao.md)   
 
 
 Cada arquivo segue a seguinte estrutura:
