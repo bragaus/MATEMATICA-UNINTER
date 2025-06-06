@@ -32,13 +32,14 @@ MATEMATICA-UNINTER/
 └── README.md                              # Você está aqui (ou talvez já esteja em Alpha Centauri)
 ```
 ---
+
+```text
 //===============================================  
 //  CYBER-MATH ++ | [A MATRIX É VOCÊ]  
 //  (c) 2025 - AGENTE [REDACTED]  
 //  DISCLAIMER: Esse código atravessa dimensões
 //===============================================
 
-```text
 while (vida) {
     estudar();
     codar();
