@@ -45,4 +45,20 @@ while (vida) {
     codar();
     compilar_com_raiva();
 }
+
+╭─ DE planoartistico.com 🪐
+│⌾ v0.0.1
+│
+│   `[✓ ESCOLHA SUA MISSÃO]`
+│
+│ ① 🔏 *Registrar sua música*  
+│    _Ganhe:_ Direitos Autorais | Royalties | NFT
+
+│ ② 🌐 *Lançar seu site*  
+│    _Inclui:_ Domínio próprio | SEO | Landing Page  
+
+│ ③ 🧬 *Criar arte visual*  
+│    _Receba:_ Arte pronta + NFT exclusivo  
+
+╰─ _Ou digite o que deseja fazer..._
 ```
