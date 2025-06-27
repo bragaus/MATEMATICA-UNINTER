@@ -46,6 +46,7 @@ Aula 5 Geometria Plana
 5.2. [Polígonos Regulares](./5.2-poligonos-regulares.md)  
 5.3. [Circunferência, Círculo, Arco e Setor](./5.3-circunferencia-circulo-arco-e-setor.md)  
 5.4. [Perímetro das Figuras Planas](./5.4-perimetros-das-figuras-planas.md)  
+5.5. [Área das Figuras Planas](./5.5-area-das-figuras-planas.md)  
 
 ---
 
