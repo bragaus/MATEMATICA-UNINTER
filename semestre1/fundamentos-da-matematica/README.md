@@ -16,7 +16,7 @@
 2 Equações exponenciais e logarítmicas  
 2.1. [Potenciação](./2.1-potenciacao.md)   
 2.2. [Equações Exponenciais](./2.2-equacoes-exponenciais.md)  
-2.3. [Logaritmo e suas Propriedades](./2.3-logaritmo.md)
+2.3. [Logaritmo e suas Propriedades](./2.3-logaritmo.md)  
 2.4. [Equações Logarítmicas](./2.4-equacoes-logaritmicas.md)
 
 Cada arquivo segue a seguinte estrutura:
