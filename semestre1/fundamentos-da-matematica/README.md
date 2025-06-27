@@ -4,7 +4,7 @@
 
 ---
 
-Aula 1 TRIGONOMETRIA NOS TRIÂNGULOS  
+Aula 1 Trigonometria nos triângulos    
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
 1.2. [Semelhança de Triângulos](1.2-semelhanca-triangulos.md)  
 1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)   
@@ -24,6 +24,9 @@ Aula 3 Sequências Numéricas
 3.2. [Progressão Aritmética](./3.2-progressao-aritmetica.md)  
 3.3. [Progressão Geométrica](./3.3-progressao-geometrica.md)  
 3.4. [Exercícios de Fixação](./3.4-exercicios-de-fixacao.md)  
+
+Aula 4 Trigonometria no Ciclo Trigonométrico  
+4.1. [Ângulos em Graus, Radianos e o Ciclo Trigonométrico](./4.1-angulos-em-graus-radianos-e-o-ciclo-trigonometrico.md)  
 
 Cada arquivo segue a seguinte estrutura:
 
