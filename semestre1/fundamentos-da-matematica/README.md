@@ -4,7 +4,7 @@
 
 ---
 
-1 TRIGONOMETRIA NOS TRIÂNGULOS  
+Aula 1 TRIGONOMETRIA NOS TRIÂNGULOS  
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
 1.2. [Semelhança de Triângulos](1.2-semelhanca-triangulos.md)  
 1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)   
@@ -13,11 +13,14 @@
 1.6. [Cálculo de Áreas em Triângulos](1.6-teorema-das-areas.md)  
 1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)  
 
-2 Equações exponenciais e logarítmicas  
+Aula 2 Equações exponenciais e logarítmicas  
 2.1. [Potenciação](./2.1-potenciacao.md)   
 2.2. [Equações Exponenciais](./2.2-equacoes-exponenciais.md)  
 2.3. [Logaritmo e suas Propriedades](./2.3-logaritmo.md)  
 2.4. [Equações Logarítmicas](./2.4-equacoes-logaritmicas.md)
+
+Aula 3 Sequências Numéricas
+3.1. [Sequências e Fibonacci](./3.1-sequencias-e-fibonacci.md)
 
 Cada arquivo segue a seguinte estrutura:
 
