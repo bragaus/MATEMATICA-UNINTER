@@ -71,6 +71,4 @@ Cada conceito aqui documentado pode ser aplicado tanto em ciência como em engen
 Sinta-se livre para clonar, estudar, experimentar e contribuir.  
 A nave Exodus aceita todos que buscam o conhecimento.
 
-```bash
-git clone https://github.com/bragaus/MATEMATICA-UNINTER.git
-cd fundamentos-da-matematica/
+---
