@@ -15,7 +15,7 @@
 
 2 Equações exponenciais e logarítmicas  
 2.1. [Potenciação](./2.1-potenciacao.md)   
-2.2. []
+2.2. [Equações Exponenciais](./2.2-equacoes-exponenciais.md)
 
 Cada arquivo segue a seguinte estrutura:
 
