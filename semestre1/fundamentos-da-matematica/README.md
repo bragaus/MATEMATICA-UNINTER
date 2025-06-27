@@ -4,6 +4,13 @@
 
 ---
 
+Cada arquivo segue a seguinte estrutura:
+
+- Definições matemáticas e fórmulas (com LaTeX)
+- Analogias interpretativas para despertar novas ideias
+- Aplicações cósmicas e científicas
+- Casos de uso em **C++**, com foco em simulações, visualização e resolução simbólica/numérica
+
 Aula 1 Trigonometria nos triângulos    
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
 1.2. [Semelhança de Triângulos](1.2-semelhanca-triangulos.md)  
@@ -37,14 +44,6 @@ Aula 5 Geometria Plana
 5.1. [Quadriláteros Notáveis](./5.1-quadrilateros-notaveis.md)  
 5.2. [Polígonos Regulares](./5.2-poligonos-regulares.md)  
 5.4. [Circunferência, Círculo, Arco e Setor](./5.3-circunferencia-circulo-arco-e-setor.md)  
-
-
-Cada arquivo segue a seguinte estrutura:
-
-- Definições matemáticas e fórmulas (com LaTeX)
-- Analogias interpretativas para despertar novas ideias
-- Aplicações cósmicas e científicas
-- Casos de uso em **C++**, com foco em simulações, visualização e resolução simbólica/numérica
 
 ---
 
