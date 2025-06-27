@@ -33,7 +33,7 @@ Aula 4 Trigonometria no Ciclo Trigonométrico
 4.5. [Relações Fundamentais da Trigonometria](./4.5-relacoes-fundamentais-da-trigonometria.md)  
 4.6. [Exercícios de Fixação](./4.6-exercicios-de-fixacao.md)  
 
-Aula 5 Geometria Plana: Quadriláteros Notáveis
+Aula 5 Geometria Plana: Quadriláteros Notáveis  
 5.1. [Quadriláteros Notáveis](./5.1-quadrilateros-notaveis.md)  
 
 Cada arquivo segue a seguinte estrutura:
