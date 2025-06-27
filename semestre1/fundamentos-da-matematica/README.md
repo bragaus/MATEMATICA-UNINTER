@@ -45,7 +45,7 @@ Aula 5 Geometria Plana
 5.1. [Quadriláteros Notáveis](./5.1-quadrilateros-notaveis.md)  
 5.2. [Polígonos Regulares](./5.2-poligonos-regulares.md)  
 5.3. [Circunferência, Círculo, Arco e Setor](./5.3-circunferencia-circulo-arco-e-setor.md)  
-5.4. [Perímetro das Figuras Planas](./5.4-perimetro-das-figuras-planas.md)  
+5.4. [Perímetro das Figuras Planas](./5.4-perimetros-das-figuras-planas.md)  
 
 ---
 
