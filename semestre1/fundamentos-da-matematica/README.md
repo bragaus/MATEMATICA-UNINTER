@@ -31,6 +31,7 @@ Aula 4 Trigonometria no Ciclo Trigonométrico
 4.3. [Sinais das Funções Trigonométricas nos Quadrantes](./4.3-sinais-das-funcoes-trignometricas-nos-quadrantes.md)  
 4.4. [Arcos Congruentes e Redução ao Primeiro Quadrante](./4.4-arcos-congruentes-e-reducao-ao-primeiro-quadrante.md)  
 4.5. [Relações Fundamentais da Trigonometria](./4.5-relacoes-fundamentais-da-trigonometria.md)  
+4.6. [Exercícios de Fixação](./4.6-exercicios-de-fixacao.md)
 
 Cada arquivo segue a seguinte estrutura:
 
