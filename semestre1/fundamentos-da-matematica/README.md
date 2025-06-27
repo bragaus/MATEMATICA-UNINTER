@@ -9,7 +9,8 @@ Cada arquivo segue a seguinte estrutura:
 - Definições matemáticas e fórmulas (com LaTeX)
 - Analogias interpretativas para despertar novas ideias
 - Aplicações cósmicas e científicas
-- Casos de uso em **C++**, com foco em simulações, visualização e resolução simbólica/numérica
+- Casos de uso em **C++**
+- Insights sobre mercado financeiro
 
 Aula 1 Trigonometria nos triângulos    
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
