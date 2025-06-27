@@ -19,8 +19,8 @@ Aula 2 Equações exponenciais e logarítmicas
 2.3. [Logaritmo e suas Propriedades](./2.3-logaritmo.md)  
 2.4. [Equações Logarítmicas](./2.4-equacoes-logaritmicas.md)
 
-Aula 3 Sequências Numéricas
-3.1. [Sequências e Fibonacci](./3.1-sequencias-e-fibonacci.md)
+Aula 3 Sequências Numéricas  
+3.1. [Sequências e Fibonacci](./3.1-sequencias-e-fibonacci.md)  
 
 Cada arquivo segue a seguinte estrutura:
 
