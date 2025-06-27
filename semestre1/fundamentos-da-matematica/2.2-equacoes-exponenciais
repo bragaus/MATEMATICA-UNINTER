@@ -1,0 +1,79 @@
+## 🔹 TEMA 2 – Equações e Inequações Exponenciais
+
+### 📘 Equações Exponenciais
+
+Uma **equação exponencial** é aquela em que a incógnita aparece no expoente:
+
+\[2^{x+3} = 8 \quad \text{ou} \quad 4^x = 64\]
+
+Para resolver, transformamos ambos os lados em potências de mesma base:
+
+\[a^x = a^y \Rightarrow x = y\]
+
+**Exemplo:**
+\[
+2^{x+3} = 8 \Rightarrow 2^{x+3} = 2^3 \Rightarrow x+3 = 3 \Rightarrow x = 0
+\]
+
+---
+
+### 📘 Inequações Exponenciais
+
+São desigualdades com a incógnita no expoente:
+
+**Exemplo:**
+\[2^{x+4} > 8 \Rightarrow 2^{x+4} > 2^3 \Rightarrow x+4 > 3 \Rightarrow x > -1\]
+
+**Importante:** o comportamento muda conforme a base:
+
+- Se \(a > 1\): o sinal da desigualdade se mantém
+- Se \(0 < a < 1\): o sinal **se inverte**
+
+**Exemplo com base entre 0 e 1:**
+\[
+\left(\frac{1}{2}\right)^{x-1} \ge \left(\frac{1}{2}\right)^2 \Rightarrow x - 1 \le 2 \Rightarrow x \le 3
+\]
+
+---
+
+### 💡 Analogia Psicodélica
+
+Imagine uma espiral de energia que cresce ou se dissolve com base na sua vibração. Se a frequência estiver acima de 1, ela se expande (\(a > 1\)). Se estiver abaixo de 1, ela colapsa — invertendo o fluxo (\(0 < a < 1\)). As inequações exponenciais são os **limiares entre expansão e contração**, como portas dimensionais.
+
+---
+
+### 📈 Exemplo no Mercado Financeiro
+
+Você deseja saber **quando** um investimento com crescimento de 3% ao dia ultrapassa R\$ 10.000, a partir de R\$ 1.000:
+
+\[1000 \cdot (1{,}03)^x > 10000 \Rightarrow (1{,}03)^x > 10\]
+
+Aplicando logaritmo:
+\[
+x \cdot \log(1{,}03) > \log(10) \Rightarrow x > \frac{\log(10)}{\log(1{,}03)} \approx 80
+\]
+
+**Resposta:** Após aproximadamente 80 dias.
+
+---
+
+### 💻 Exemplo em C++
+
+```cpp
+#include <iostream>
+#include <cmath>
+
+int main() {
+    double resultado = pow(2, 3 + 4); // 2^(3+4) = 128
+    std::cout << "Resultado: " << resultado << std::endl;
+    return 0;
+}
+```
+
+---
+
+### 🌌 Aplicabilidade no Universo
+
+A **meia-vida de partículas radioativas** é um exemplo direto de inequações exponenciais. A cada instante, a quantidade remanescente decresce exponencialmente. 
+
+Além disso, o **crescimento de buracos negros**, o resfriamento de planetas ou a dissipação de energia no vácuo cósmico obedecem **limites exponenciais**.
