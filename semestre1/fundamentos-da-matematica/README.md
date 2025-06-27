@@ -35,6 +35,8 @@ Aula 4 Trigonometria no Ciclo Trigonométrico
 
 Aula 5 Geometria Plana  
 5.1. [Quadriláteros Notáveis](./5.1-quadrilateros-notaveis.md)  
+5.2. [Polígonos Regulares](./5.2-poligonos-regulares.md)  
+
 
 Cada arquivo segue a seguinte estrutura:
 
