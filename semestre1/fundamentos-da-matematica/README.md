@@ -23,6 +23,7 @@ Aula 3 Sequências Numéricas
 3.1. [Sequências e Fibonacci](./3.1-sequencias-e-fibonacci.md)  
 3.2. [Progressão Aritmética](./3.2-progressao-aritmetica.md)  
 3.3. [Progressão Geométrica](./3.3-progressao-geometrica.md)  
+3.4. [Exercícios de Fixação](./3.4-exercicios-de-fixacao.md)  
 
 Cada arquivo segue a seguinte estrutura:
 
