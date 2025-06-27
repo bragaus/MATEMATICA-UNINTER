@@ -14,7 +14,7 @@
 1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)  
 
 2 Equações exponenciais e logarítmicas  
-2.1. [Potenciação](./2.1-portenciacao.md)   
+2.1. [Potenciação](./2.1-potenciacao.md)   
 2.2. []
 
 Cada arquivo segue a seguinte estrutura:
