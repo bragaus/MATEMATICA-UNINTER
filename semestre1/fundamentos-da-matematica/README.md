@@ -63,23 +63,6 @@ Cada conceito aqui documentado pode ser aplicado tanto em ciência como em engen
 
 ---
 
-## 🌀 Analogia Psicodélica
-
-> "Programar é como traduzir leis do universo para a máquina."
-
----
-
-## 📂 Exemplos Futuramente Disponíveis
-
-- `src/geometry/triangle.hpp` — Cálculo de área, projeções e métricas
-- `src/orbit/trajectory.cpp` — Leis dos senos e cossenos aplicadas a órbitas
-- `src/render/fractal.cpp` — Representação gráfica de semelhanças
-- `src/utils/angle.hpp` — Conversões, radianos, ângulos notáveis
-
----
-
-## 🧠 Filosofia
-
 > A matemática revela o que está oculto.  
 > A programação nos permite tocar o invisível.  
 > E juntos, nos levam além das fronteiras conhecidas.
