@@ -51,7 +51,7 @@ Aula 5 Geometria Plana
 
 Aula 6 Geometria Espcial  
 6.1. [Poliedros](6.1-poliedros.md)  
-6.2. [Primsas](6.2-primas.md)  
+6.2. [Prismas](6.2-prismas.md)  
 
 ---
 
