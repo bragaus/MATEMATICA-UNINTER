@@ -59,6 +59,7 @@ Aula 6 - Vetores
 6.2. [Operações Vetoriais](./6.2-operacoes-vetoriais.md)  
 6.3. [Vetores Opostos, Colineares e Ortogonais](./6.3-vetores-opostos-colineares-e-ortogonais.md)  
 6.4. [Produto Escalar, Ângulo entre Vetores e Projeções](./6.4-produto-escalar-angulo-entre-vetores-e-projecoes.md)  
+6.5. [Condição de Ponto Pertencer ao Segmento](./6.5-condicao-de-ponto-pertencer-ao-segmento.md)  
 
 ---
 
