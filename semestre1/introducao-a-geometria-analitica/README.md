@@ -48,7 +48,8 @@ Aula 4 - CÔNICAS
 4.4. [Hipérbole como Lugar Geométrico](4.4-hiperbole-como-lugar-geometrico.md)  
 
 Aula 5 - ROTAÇÃO E TRANSLAÇÃO DE CÔNICAS  
-5.1. [Algoritmos para Encontrar o Centro ou o Vértice da Cônica](./5.1-algoritmos-para-encontrar-o-centro-ou-o-vertice-da-conica.md)
+5.1. [Algoritmos para Encontrar o Centro ou o Vértice da Cônica](./5.1-algoritmos-para-encontrar-o-centro-ou-o-vertice-da-conica.md)  
+5.2. [Transladação de Coordenadas no Plano](./5.2-transladacao-de-coordenadas-no-plano.md)
 
 ---
 
