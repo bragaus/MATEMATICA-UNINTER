@@ -49,7 +49,7 @@ Aula 5 Geometria Plana
 5.5. [Área das Figuras Planas](./5.5-area-das-figuras-planas.md)  
 5.6. [Aplicações Práticas da Geometria Plana](./5.6-aplicacoes-praticas-da-geometria-plana.md)  
 
-Aula 6 Geometria Espcial  
+Aula 6 Geometria Espacial  
 6.1. [Poliedros](6.1-poliedros.md)  
 6.2. [Prismas](6.2-prismas.md)  
 
