@@ -34,6 +34,9 @@ Aula 2 - RETAS
 2.4. [Área do Triângulo e Alinhamento de Pontos](./2.4-area-do-triangulo-e-alinhamento-de-pontos.md)  
 2.5. [Distância entre Dois Pontos e Medições no Plano](./2.5-distancia-entre-dois-pontos-e-medicoes-no-plano.md)  
 
+Aula 3 - CÍRCULO E CIRCUNFERÊNCIA  
+3.1. [Equação da Circunferência](./3.1-equacao-da-circunferencia.md)  
+
 ---
 
 ## 🧬 Aplicações Cósmicas e Computacionais
