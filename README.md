@@ -3,7 +3,7 @@
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
 
-Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enquanto curso o **Bacharelado em Matemática**, com um foco em **engenharia de software**, **C++**, **mercado financeiro**, **ciência espacial**, **modelagem computacional do universo**.
+Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enquanto curso o **Bacharelado em Matemática**, com um foco em **engenharia de software** (**C++**), **mercado financeiro**, **ciência espacial**, **modelagem computacional do universo**.
 
 ---
 
