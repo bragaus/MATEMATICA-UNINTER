@@ -30,6 +30,7 @@ Aula 1 – ESPAÇOS BIDIMENSIONAL, TRIDIMENSIONAL E POLAR
 Aula 2 - RETAS  
 2.1. [Equação Geral da Reta e Posições Relativas](./2.1-equacao-geral-da-reta-e-posicao-relativa.md)  
 2.2. [Interseção, Ângulo e Distância entre Retas](./2.2-intersecao-angulo-e-distancia-entre-retas.md)  
+2.3. [Segmento de Reta, Ponto Médio e Comprimento](./2.3-segmento-de-reta-ponto-medio-e-comprimento.md)  
 
 ---
 
