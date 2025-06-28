@@ -44,6 +44,7 @@ Aula 3 - CÍRCULO E CIRCUNFERÊNCIA
 Aula 4 - CÔNICAS  
 4.1. [Circunferência como Lugar Geométrico](./4.1-circunferencia-como-lugar-geometrico.md)  
 4.2. [Elipse como Lugar Geométrico](./4.3-elipse-como-lugar-geometrico.md)  
+4.3. [Parábola como Lugar Geométrico](./4.3-parabola-como-lugar-geometrico.md)  
 
 ---
 
