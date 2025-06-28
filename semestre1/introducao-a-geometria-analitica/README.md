@@ -32,6 +32,7 @@ Aula 2 - RETAS
 2.2. [Interseção, Ângulo e Distância entre Retas](./2.2-intersecao-angulo-e-distancia-entre-retas.md)  
 2.3. [Segmento de Reta, Ponto Médio e Comprimento](./2.3-segmento-de-reta-ponto-medio-e-comprimento.md)  
 2.4. [Área do Triângulo e Alinhamento de Pontos](./2.4-area-do-triangulo-e-alinhamento-de-pontos.md)  
+2.5. [Distância entre Dois Pontos e Medições no Plano](./2.5-distancia-entre-dois-pontos-e-medicoes-no-plano.md)  
 
 ---
 
