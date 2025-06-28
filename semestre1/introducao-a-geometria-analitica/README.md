@@ -51,7 +51,8 @@ Aula 5 - ROTAÇÃO E TRANSLAÇÃO DE CÔNICAS
 5.1. [Algoritmos para Encontrar o Centro ou o Vértice da Cônica](./5.1-algoritmos-para-encontrar-o-centro-ou-o-vertice-da-conica.md)  
 5.2. [Transladação de Coordenadas no Plano](./5.2-transladacao-de-coordenadas-no-plano.md)  
 5.3. [Rotação de Eixos no Plano](./5.3-rotacao-de-eixos-no-plano.md)  
-5.4. [Equação Completa do 2º Grau](./5.4-equacao-completa-do-2-grau.md)
+5.4. [Equação Completa do 2º Grau](./5.4-equacao-completa-do-2-grau.md)  
+5.5. [Discriminante e a Ordem das Transformações](./5.5-discriminante-e-a-ordem-das-transformacoes.md)  
 
 ---
 
