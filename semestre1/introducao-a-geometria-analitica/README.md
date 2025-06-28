@@ -39,6 +39,7 @@ Aula 3 - CÍRCULO E CIRCUNFERÊNCIA
 3.2. [Equação Paramétrica da Circunferência](./3.2-equacao-parametrica-da-circunferencia.md)  
 3.3. [Equação da Parábola](./3.3-equacao-da-parabola.md)  
 3.4. [Equação da Elipse](./3.4-equacao-da-elipse.md)  
+3.5. [Equação da Hipérbole](./3.5-equacao-da-hiperbole.md)
 
 ---
 
