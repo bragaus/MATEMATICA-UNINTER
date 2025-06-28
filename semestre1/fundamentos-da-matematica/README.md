@@ -49,6 +49,9 @@ Aula 5 Geometria Plana
 5.5. [Área das Figuras Planas](./5.5-area-das-figuras-planas.md)  
 5.6. [Aplicações Práticas da Geometria Plana](./5.6-aplicacoes-praticas-da-geometria-plana.md)  
 
+Aula 6 Geometria Espcial  
+6.1. [Poliedros](6.1-poliedros.md)  
+
 ---
 
 ## 🧬 Aplicações Cósmicas e Computacionais
