@@ -23,7 +23,7 @@ Aula 1 – ESPAÇOS BIDIMENSIONAL, TRIDIMENSIONAL E POLAR
 1.1. [Introdução à Geometria Analítica](./1.1-introducao-a-geometria-analitica.md)  
 1.2. [Equação da Reta no Plano Cartesiano](./1.2-equacao-da-reta-no-plano-cartesiano.md)  
 1.3. [Circunferência no Plano](./1.3-circunferencia-no-plano.md)  
-1.4. [Condições de alinhamento de três pontos](./1.4-alinhamento.md)
+1.4. [Parábolas no Plano Cartesiano](./1.4-parabolas-no-plano-cartesiano.md)
 
 ---
 
