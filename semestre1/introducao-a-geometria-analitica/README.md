@@ -56,31 +56,6 @@ Aula 5 - ROTAÇÃO E TRANSLAÇÃO DE CÔNICAS
 
 ---
 
----
-
-## 🗺️ MAPA CÔNICO CONCEITUAL
-
-```
-             +-----------------------+
-             |   EQUAÇÃO GERAL       |
-             | Ax² + Bxy + Cy² + Dx + Ey + F = 0 |
-             +-----------------------+
-                       |
-              +--------+--------+
-              |                 |
-      [Discriminante Δ]     [Transformações]
-              |                 |
-       +------+------+     +------------+
-       |      |      |     |            |
-  Elipse  Hipérbole  Parábola     Translação
- Δ < 0    Δ > 0     Δ = 0      (Dx + Ey ≠ 0)
-                                |
-                             Rotação
-                             (B ≠ 0)
-```
-
----
-
 ## 🧬 Aplicações Cósmicas e Computacionais
 
 | Conceito                | Aplicações Cósmicas                         | Implementações em C++                         |
