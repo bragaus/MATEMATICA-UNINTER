@@ -55,6 +55,7 @@ Aula 6 Geometria Espacial
 6.3. [Pirâmides](6.3-piramides.md)  
 6.4. [Cilindros](6.4-cilindro.md)  
 6.5. [Cones](6.5-cone.md)  
+6.6. [Esfera](6.6-esfera.md)  
 
 ---
 
