@@ -19,7 +19,7 @@ Cada arquivo seguirá a estrutura já consagrada do Projeto Exodus:
 
 ## 📚 Conteúdo
 
-Aula 1 – ESPAÇOS BIDIMENSIONAL, TRIDIMENSIONAL E POLAR
+Aula 1 – ESPAÇOS BIDIMENSIONAL, TRIDIMENSIONAL E POLAR  
 1.1. [Introdução à Geometria Analítica](./1.1-introducao-a-geometria-analitica.md)  
 1.2. [Distância entre dois pontos](./1.2-distancia-dois-pontos.md)  
 1.3. [Ponto médio de um segmento](./1.3-ponto-medio.md)  
