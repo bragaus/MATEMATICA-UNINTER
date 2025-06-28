@@ -57,6 +57,10 @@ Aula 6 Geometria Espacial
 6.5. [Cones](6.5-cone.md)  
 6.6. [Esfera](6.6-esfera.md)  
 
+Aula 7 Resolução de exercícios  
+7.1. [Resolução de exercícios das aulas 1, 2 e 3 em C++](7.1-exercicios.md)  
+7.2. [Resoluçao de exercícios das aulas 4, 5 e 6 em C++](7.2-exercicios.md)  
+
 ---
 
 ## 🧬 Aplicações Cósmicas e Computacionais
