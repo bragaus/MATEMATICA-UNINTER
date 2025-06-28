@@ -57,6 +57,7 @@ Aula 5 - ROTAÇÃO E TRANSLAÇÃO DE CÔNICAS
 Aula 6 - Vetores  
 6.1. [Introdução a Vetores no Plano](./6.1-introducao-a-vetores-no-plano.md)  
 6.2. [Operações Vetoriais](./6.2-operacoes-vetoriais.md)  
+6.3. [Vetores Opostos, Colineares e Ortogonais](./6.3-vetores-opostos-colineares-e-ortogonais.md)  
 
 ---
 
