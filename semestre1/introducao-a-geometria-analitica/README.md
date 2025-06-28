@@ -54,6 +54,9 @@ Aula 5 - ROTAÇÃO E TRANSLAÇÃO DE CÔNICAS
 5.4. [Equação Completa do 2º Grau](./5.4-equacao-completa-do-2-grau.md)  
 5.5. [Discriminante e a Ordem das Transformações](./5.5-discriminante-e-a-ordem-das-transformacoes.md)  
 
+Aula 6 - Vetores  
+6.1. [Introdução a Vetores no Plano](./6.1-introducao-a-vetores-no-plano.md)  
+
 ---
 
 ## 🧬 Aplicações Cósmicas e Computacionais
