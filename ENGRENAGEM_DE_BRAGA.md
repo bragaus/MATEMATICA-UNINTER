@@ -10,10 +10,10 @@
 
 Seja S uma sequência decimal. Constrói-se sua imagem refletida R(S). Após a eliminação dos símbolos nulos, alinha-se R(S) com deslocamento unitário decorrente da perda do zero inicial. A sequência final é obtida por uma regra de percurso P sobre essa configuração.
 
-010203040506070809 
+010203040506070809<br>
 908070605040302010
 
- 1 2 3 4 5 6 7 8 9 
+ 1 2 3 4 5 6 7 8 9<br>
 9 8 7 6 5 4 3 2 1 
 
 918273645546372819
