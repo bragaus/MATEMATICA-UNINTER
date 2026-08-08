@@ -26,6 +26,7 @@ MATEMATICA-UNINTER/
 │   └── introducao-a-geometria-analitica/  # Eixos, vetores, curvas... o mapa para outras galáxias
 ├── semestre2/                       
 │   └── ...                                # (o universo está em expansão)
+├── teorema-de-braga/                      # Teorema da Engrenagem: artigo e implementações em C
 ├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
 │   ├── include/                           # Headers com fórmulas, constantes, structs
 │   └── src/                               # Implementações, testes, algoritmos aplicados
