@@ -36,7 +36,7 @@ Aula 3 – Sequências Numéricas
 Aula 4 – Trigonometria no Ciclo Trigonométrico  
 4.1. [Ângulos em Graus, Radianos e o Ciclo Trigonométrico](./4.1-angulos-em-graus-radianos-e-o-ciclo-trigonometrico.md)  
 4.2. [Arcos Notáveis](./4.2-arcos-notaveis.md)  
-4.3. [Sinais das Funções Trigonométricas nos Quadrantes](./4.3-sinais-das-funcoes-trignometricas-nos-quadrantes.md)  
+4.3. [Sinais das Funções Trigonométricas nos Quadrantes](./4.3-sinais-das-funcoes-trigonometricas-nos-quadrantes.md)  
 4.4. [Arcos Congruentes e Redução ao Primeiro Quadrante](./4.4-arcos-congruentes-e-reducao-ao-primeiro-quadrante.md)  
 4.5. [Relações Fundamentais da Trigonometria](./4.5-relacoes-fundamentais-da-trigonometria.md)  
 4.6. [Exercícios de Fixação](./4.6-exercicios-de-fixacao.md)  
