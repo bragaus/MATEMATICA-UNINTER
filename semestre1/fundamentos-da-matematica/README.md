@@ -14,11 +14,11 @@ Cada arquivo segue a seguinte estrutura:
 
 Aula 1 – Trigonometria nos triângulos    
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
-1.2. [Semelhança de Triângulos](1.2-semelhanca-triangulos.md)  
+1.2. [Semelhança de Triângulos](./1.2-semelhanca-triangulos.md)  
 1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)   
-1.4. [Relações Trigonométricas no Triângulo Retângulo](1.4-relacoes-trigonometricas.md)  
-1.5. [Lei dos Senos e Lei dos Cossenos](1.5-lei-dos-senos-e-cossenos.md)  
-1.6. [Teorema das Áreas de Triângulos](1.6-teorema-das-areas.md)  
+1.4. [Relações Trigonométricas no Triângulo Retângulo](./1.4-relacoes-trigonometricas.md)  
+1.5. [Lei dos Senos e Lei dos Cossenos](./1.5-lei-dos-senos-e-cossenos.md)  
+1.6. [Teorema das Áreas de Triângulos](./1.6-teorema-das-areas.md)  
 
 Aula 2 – Equações exponenciais e logarítmicas  
 2.1. [Potenciação](./2.1-potenciacao.md)   
@@ -49,16 +49,16 @@ Aula 5 – Geometria Plana
 5.6. [Aplicações Práticas da Geometria Plana](./5.6-aplicacoes-praticas-da-geometria-plana.md)  
 
 Aula 6 – Geometria Espacial  
-6.1. [Poliedros](6.1-poliedros.md)  
-6.2. [Prismas](6.2-prismas.md)  
-6.3. [Pirâmides](6.3-piramides.md)  
-6.4. [Cilindro](6.4-cilindro.md)  
-6.5. [Cone](6.5-cone.md)  
-6.6. [Esfera](6.6-esfera.md)  
+6.1. [Poliedros](./6.1-poliedros.md)  
+6.2. [Prismas](./6.2-prismas.md)  
+6.3. [Pirâmides](./6.3-piramides.md)  
+6.4. [Cilindro](./6.4-cilindro.md)  
+6.5. [Cone](./6.5-cone.md)  
+6.6. [Esfera](./6.6-esfera.md)  
 
 Aula 7 – Resolução de exercícios  
-7.1. [Resolução de exercícios das aulas 1, 2 e 3 em C++](7.1-exercicios.md)  
-7.2. [Resolução de exercícios das aulas 4, 5 e 6 em C++](7.2-exercicios.md)  
+7.1. [Resolução de exercícios das aulas 1, 2 e 3 em C++](./7.1-exercicios.md)  
+7.2. [Resolução de exercícios das aulas 4, 5 e 6 em C++](./7.2-exercicios.md)  
 
 ---
 
