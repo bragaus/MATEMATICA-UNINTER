@@ -16,20 +16,20 @@ Aula 1 – Trigonometria nos triângulos
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
 1.2. [Semelhança de Triângulos](1.2-semelhanca-triangulos.md)  
 1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)   
-1.4. [Relações Trigonométricas](1.4-relacoes-trigonometricas.md)  
-1.5. [Leis dos Senos e Cossenos](1.5-lei-dos-senos-e-cossenos.md)  
-1.6. [Cálculo de Áreas em Triângulos](1.6-teorema-das-areas.md)  
+1.4. [Relações Trigonométricas no Triângulo Retângulo](1.4-relacoes-trigonometricas.md)  
+1.5. [Lei dos Senos e Lei dos Cossenos](1.5-lei-dos-senos-e-cossenos.md)  
+1.6. [Teorema das Áreas de Triângulos](1.6-teorema-das-areas.md)  
 
 Aula 2 – Equações exponenciais e logarítmicas  
 2.1. [Potenciação](./2.1-potenciacao.md)   
-2.2. [Equações Exponenciais](./2.2-equacoes-exponenciais.md)  
+2.2. [Equações e Inequações Exponenciais](./2.2-equacoes-exponenciais.md)  
 2.3. [Logaritmo e suas Propriedades](./2.3-logaritmo.md)  
 2.4. [Equações Logarítmicas](./2.4-equacoes-logaritmicas.md)
 
 Aula 3 – Sequências Numéricas  
 3.1. [Sequências e Fibonacci](./3.1-sequencias-e-fibonacci.md)  
-3.2. [Progressão Aritmética](./3.2-progressao-aritmetica.md)  
-3.3. [Progressão Geométrica](./3.3-progressao-geometrica.md)  
+3.2. [Progressão Aritmética (PA)](./3.2-progressao-aritmetica.md)  
+3.3. [Progressão Geométrica (PG)](./3.3-progressao-geometrica.md)  
 3.4. [Exercícios de Fixação](./3.4-exercicios-de-fixacao.md)  
 
 Aula 4 – Trigonometria no Ciclo Trigonométrico  
@@ -52,13 +52,13 @@ Aula 6 – Geometria Espacial
 6.1. [Poliedros](6.1-poliedros.md)  
 6.2. [Prismas](6.2-prismas.md)  
 6.3. [Pirâmides](6.3-piramides.md)  
-6.4. [Cilindros](6.4-cilindro.md)  
-6.5. [Cones](6.5-cone.md)  
+6.4. [Cilindro](6.4-cilindro.md)  
+6.5. [Cone](6.5-cone.md)  
 6.6. [Esfera](6.6-esfera.md)  
 
 Aula 7 – Resolução de exercícios  
 7.1. [Resolução de exercícios das aulas 1, 2 e 3 em C++](7.1-exercicios.md)  
-7.2. [Resoluçao de exercícios das aulas 4, 5 e 6 em C++](7.2-exercicios.md)  
+7.2. [Resolução de exercícios das aulas 4, 5 e 6 em C++](7.2-exercicios.md)  
 
 ---
 
