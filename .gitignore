@@ -1,0 +1,20 @@
+# binarios compilados do teorema
+teorema-de-braga/teorema
+teorema-de-braga/linear
+teorema-de-braga/llm-forward
+
+# artefatos de build C/C++
+*.o
+*.a
+*.so
+*.out
+a.out
+
+# editores
+.vscode/
+.idea/
+*.swp
+
+# sistema
+.DS_Store
+Thumbs.db
