@@ -19,7 +19,7 @@ Cada arquivo seguirá a estrutura já consagrada do Projeto Exodus:
 
 ## 📚 Conteúdo
 
-Aula 1 – ESPAÇOS BIDIMENSIONAL, TRIDIMENSIONAL E POLAR  
+### Aula 1 — Espaços Bidimensional, Tridimensional e Polar
 1.1. [Introdução à Geometria Analítica](./1.1-introducao-a-geometria-analitica.md)  
 1.2. [Equação da Reta no Plano Cartesiano](./1.2-equacao-da-reta-no-plano-cartesiano.md)  
 1.3. [Circunferência no Plano](./1.3-circunferencia-no-plano.md)  
@@ -27,34 +27,34 @@ Aula 1 – ESPAÇOS BIDIMENSIONAL, TRIDIMENSIONAL E POLAR
 1.5. [Elipse no Plano Cartesiano](./1.5-elipse-no-plano-cartesiano.md)  
 1.6. [Hipérbole no Plano Cartesiano](./1.6-hiperbole-no-plano-cartesiano.md)  
 
-Aula 2 - RETAS  
+### Aula 2 — Retas
 2.1. [Equação Geral da Reta e Posições Relativas](./2.1-equacao-geral-da-reta-e-posicao-relativa.md)  
 2.2. [Interseção, Ângulo e Distância entre Retas](./2.2-intersecao-angulo-e-distancia-entre-retas.md)  
 2.3. [Segmento de Reta, Ponto Médio e Comprimento](./2.3-segmento-de-reta-ponto-medio-e-comprimento.md)  
 2.4. [Área do Triângulo e Alinhamento de Pontos](./2.4-area-do-triangulo-e-alinhamento-de-pontos.md)  
 2.5. [Distância entre Dois Pontos e Medições no Plano](./2.5-distancia-entre-dois-pontos-e-medicoes-no-plano.md)  
 
-Aula 3 - CÍRCULO E CIRCUNFERÊNCIA  
+### Aula 3 — Círculo e Circunferência
 3.1. [Equação da Circunferência](./3.1-equacao-da-circunferencia.md)  
 3.2. [Equação Paramétrica da Circunferência](./3.2-equacao-parametrica-da-circunferencia.md)  
 3.3. [Equação da Parábola](./3.3-equacao-da-parabola.md)  
 3.4. [Equação da Elipse](./3.4-equacao-da-elipse.md)  
 3.5. [Equação da Hipérbole](./3.5-equacao-da-hiperbole.md)  
 
-Aula 4 - CÔNICAS  
+### Aula 4 — Construção das Cônicas em Geometria Analítica
 4.1. [Circunferência como Lugar Geométrico](./4.1-circunferencia-como-lugar-geometrico.md)  
 4.2. [Elipse como Lugar Geométrico](./4.2-elipse-como-lugar-geometrico.md)  
 4.3. [Parábola como Lugar Geométrico](./4.3-parabola-como-lugar-geometrico.md)  
 4.4. [Hipérbole como Lugar Geométrico](4.4-hiperbole-como-lugar-geometrico.md)  
 
-Aula 5 - ROTAÇÃO E TRANSLAÇÃO DE CÔNICAS  
+### Aula 5 — Rotação e Translação de Cônicas
 5.1. [Algoritmos para Encontrar o Centro ou o Vértice da Cônica](./5.1-algoritmos-para-encontrar-o-centro-ou-o-vertice-da-conica.md)  
 5.2. [Transladação de Coordenadas no Plano](./5.2-transladacao-de-coordenadas-no-plano.md)  
 5.3. [Rotação de Eixos no Plano](./5.3-rotacao-de-eixos-no-plano.md)  
 5.4. [Equação Completa do 2º Grau](./5.4-equacao-completa-do-2-grau.md)  
 5.5. [Discriminante e a Ordem das Transformações](./5.5-discriminante-e-a-ordem-das-transformacoes.md)  
 
-Aula 6 - Vetores  
+### Aula 6 — Vetores
 6.1. [Introdução a Vetores no Plano](./6.1-introducao-a-vetores-no-plano.md)  
 6.2. [Operações Vetoriais](./6.2-operacoes-vetoriais.md)  
 6.3. [Vetores Opostos, Colineares e Ortogonais](./6.3-vetores-opostos-colineares-e-ortogonais.md)  
