@@ -51,7 +51,7 @@ void outer_product(vec u, vec v, mat W) {
 }
 
 int main(void) {
-    mat W;
+    static mat W;  /* 4 MiB: estoura a stack se for automatica */
     vec u, v, x, b, out_dense, out_rank1;
 
     /* inicializa vetores */
