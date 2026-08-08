@@ -1,0 +1,6 @@
+# normaliza fim de linha no repositorio inteiro
+* text=auto eol=lf
+
+# o repositorio e um caderno de anotacoes, mas o GitHub ignora Markdown na
+# barra de linguagens e acaba rotulando tudo como C por causa de 3 fontes.
+*.md linguist-detectable=true
