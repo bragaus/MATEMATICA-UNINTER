@@ -12,6 +12,10 @@ Cada arquivo segue a seguinte estrutura:
 - Casos de uso em **C++**
 - Insights sobre mercado financeiro
 
+---
+
+## 📚 Conteúdo
+
 ### Aula 1 — Trigonometria nos Triângulos
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
 1.2. [Semelhança de Triângulos](./1.2-semelhanca-triangulos.md)  
