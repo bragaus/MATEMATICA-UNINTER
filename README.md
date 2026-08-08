@@ -58,3 +58,16 @@ while (vida) {
     compilar_com_raiva();
 }
 ```
+
+---
+
+## 📜 Licença
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-9cf?style=for-the-badge)](./LICENSE)
+
+> Do whatever the fuck you want with it — just keep my name on it.
+
+Copia, remixa, vende, fecha o código, constrói o que quiser em cima.
+A única exigência é crédito: **Matheus BRAGA**.
+
+Licenciado sob [CC BY 4.0](./LICENSE).
