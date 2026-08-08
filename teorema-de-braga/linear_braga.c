@@ -187,7 +187,7 @@ void lu_pivot(mat A, mat L, mat U, int *piv) {
 }
 
 int main(void) {
-    mat A, AT, ATA, L, U;
+    mat A, L, U;
     vec v1;
     float sigma;
     int piv[N];
