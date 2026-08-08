@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <string.h>
 #include <time.h>
 
 #define DIM 1024  /* dimensao embedding */
