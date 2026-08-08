@@ -19,7 +19,6 @@ Aula 1 – Trigonometria nos triângulos
 1.4. [Relações Trigonométricas](1.4-relacoes-trigonometricas.md)  
 1.5. [Leis dos Senos e Cossenos](1.5-lei-dos-senos-e-cossenos.md)  
 1.6. [Cálculo de Áreas em Triângulos](1.6-teorema-das-areas.md)  
-1.7. [Aplicações técnicas, espaciais e computacionais](exemplos-praticos.md)  
 
 Aula 2 – Equações exponenciais e logarítmicas  
 2.1. [Potenciação](./2.1-potenciacao.md)   
