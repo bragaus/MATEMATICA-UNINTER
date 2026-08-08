@@ -19,13 +19,13 @@ Cada arquivo segue a seguinte estrutura:
 ### Aula 1 — Trigonometria nos Triângulos
 1.1. [Teorema de Tales](./1.1-teorema-de-tales.md)  
 1.2. [Semelhança de Triângulos](./1.2-semelhanca-triangulos.md)  
-1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)   
+1.3. [Relações Métricas no Triângulo Retângulo](./1.3-relacoes-metricas.md)  
 1.4. [Relações Trigonométricas no Triângulo Retângulo](./1.4-relacoes-trigonometricas.md)  
 1.5. [Lei dos Senos e Lei dos Cossenos](./1.5-lei-dos-senos-e-cossenos.md)  
 1.6. [Teorema das Áreas de Triângulos](./1.6-teorema-das-areas.md)  
 
 ### Aula 2 — Equações Exponenciais e Logarítmicas
-2.1. [Potenciação](./2.1-potenciacao.md)   
+2.1. [Potenciação](./2.1-potenciacao.md)  
 2.2. [Equações e Inequações Exponenciais](./2.2-equacoes-exponenciais.md)  
 2.3. [Logaritmo e suas Propriedades](./2.3-logaritmo.md)  
 2.4. [Equações Logarítmicas](./2.4-equacoes-logaritmicas.md)

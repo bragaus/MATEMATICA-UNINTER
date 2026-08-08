@@ -21,10 +21,10 @@ Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enqua
 
 ```text
 MATEMATICA-UNINTER/
-├── semestre1/                      
+├── semestre1/
 │   ├── fundamentos-da-matematica/         # Leis básicas do cosmos e suas expressões em C++
 │   └── introducao-a-geometria-analitica/  # Eixos, vetores, curvas... o mapa para outras galáxias
-├── semestre2/                       
+├── semestre2/
 │   └── ...                                # (o universo está em expansão)
 ├── teorema-de-braga/                      # Teorema da Engrenagem: artigo e implementações em C
 ├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
@@ -45,9 +45,9 @@ MATEMATICA-UNINTER/
 ---
 
 ```text
-//===============================================  
-//  CYBER-MATH ++ | [A MATRIX É VOCÊ]  
-//  (c) 2025 - AGENTE [REDACTED]  
+//===============================================
+//  CYBER-MATH ++ | [A MATRIX É VOCÊ]
+//  (c) 2025 - AGENTE [REDACTED]
 //  DISCLAIMER: Esse código atravessa dimensões
 //===============================================
 

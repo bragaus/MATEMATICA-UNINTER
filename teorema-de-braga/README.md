@@ -14,7 +14,7 @@ Seja S uma sequência decimal. Constrói-se sua imagem refletida R(S). Após a e
 908070605040302010
 
 &nbsp;1 2 3 4 5 6 7 8 9<br>
-9 8 7 6 5 4 3 2 1 
+9 8 7 6 5 4 3 2 1
 
 918273645546372819
 
