@@ -26,12 +26,12 @@ Seja S uma sequência decimal. Constrói-se sua imagem refletida R(S). Após a e
 
 Matriz engrenagem M(n, k) onde n = linha (1..∞), k = coluna (1..∞):
 
-```
+```text
 M[n, k] = n + k - 1
 ```
 
 Exemplo 10×10:
-```
+```text
 Linha 1:  1   2   3   4   5   6   7   8   9  10
 Linha 2:  2   3   4   5   6   7   8   9  10  11
 Linha 3:  3   4   5   6   7   8   9  10  11  12
@@ -60,7 +60,7 @@ Conceito: **Infinito pequeno.** Estrutura finita (regra de 1 linha) gera sequên
 
 Tabuada tradicional mod 10:
 
-```
+```text
 Linha 1:  1  2  3  4  5  6  7  8  9  0
 Linha 2:  2  4  6  8  0  2  4  6  8  0
 Linha 3:  3  6  9  2  5  8  1  4  7  0
@@ -78,7 +78,7 @@ Linha 10: 0  0  0  0  0  0  0  0  0  0
 **Prova formal:**
 
 Para n ∈ {1..9}, m = 10 - n (espelho):
-```
+```text
 n × i ≡ m × (10-i) (mod 10)
 
 Pois: (10-n) × (10-i) = 100 - 10i - 10n + ni
@@ -139,7 +139,7 @@ Sem operador aritmético (+, -, ×, ÷), usando apenas **bitwise**:
 
 ### Propriedades da Engrenagem 4×4
 
-```
+```text
 A = [ 1  2  3  4 ]
     [ 2  3  4  5 ]
     [ 3  4  5  6 ]
@@ -164,7 +164,7 @@ A = [ 1  2  3  4 ]
 
 Matriz singular requer pivoting para evitar divisão por zero:
 
-```
+```text
 P·A = L·U
 
 L = [ 1.00  0.00  0.00  0.00 ]
@@ -187,7 +187,7 @@ U = [ 4.00  5.00  6.00  7.00 ]
 ### Problema: Pesos Densos são Caros
 
 Forward pass tradicional de neurônio:
-```
+```text
 y = ReLU(W·x + b)
 
 W ∈ ℝ^(1024×1024) → 1.048M parâmetros
@@ -198,7 +198,7 @@ Multiplicação W·x → O(N²) = 1M operações
 
 Engrenagem como W = u ⊗ v (produto externo):
 
-```
+```text
 W·x = (u ⊗ v)·x = u(v·x)
 
 1. Calcular v·x: O(N) dot product
@@ -211,7 +211,7 @@ Total: O(N), não O(N²)
 
 Dimensão: 1024, 10.000 repetições:
 
-```
+```text
 Dense (O(N²)):     13.447 segundos
 Rank-1 (O(N)):         0.017 segundos
 
