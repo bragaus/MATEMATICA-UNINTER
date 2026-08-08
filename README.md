@@ -26,7 +26,7 @@ MATEMATICA-UNINTER/
 │   └── introducao-a-geometria-analitica/  # Eixos, vetores, curvas... o mapa para outras galáxias
 ├── semestre2/                       
 │   └── ...                                # (o universo está em expansão)
-├── canivete-matematico-cpp/               # Minha biblioteca pessoal de matemática em C++
+├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
 │   ├── include/                           # Headers com fórmulas, constantes, structs
 │   └── src/                               # Implementações, testes, algoritmos aplicados
 └── README.md                              # Você está aqui (ou talvez já esteja em Alpha Centauri)
