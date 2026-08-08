@@ -237,6 +237,13 @@ Parâmetros:
 
 ## 5. Código Completo
 
+Compilação dos três programas:
+
+```sh
+make          # gera teorema, linear e llm-forward
+make limpar   # remove os binários
+```
+
 ### C Puro (Sem Libs, Freestanding)
 
 Arquivo: `teorema_braga.c`
