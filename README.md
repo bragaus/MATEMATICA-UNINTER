@@ -25,7 +25,7 @@ MATEMATICA-UNINTER/
 │   ├── fundamentos-da-matematica/         # Leis básicas do cosmos e suas expressões em C++
 │   └── introducao-a-geometria-analitica/  # Eixos, vetores, curvas... o mapa para outras galáxias
 ├── semestre2/
-│   └── ...                                # (o universo está em expansão)
+│   └── desvendando-a-matematica/          # Axiomas, equações, frações e razões
 ├── teorema-de-braga/                      # Teorema da Engrenagem: artigo e implementações em C
 ├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
 │   ├── include/                           # Headers com fórmulas, constantes, structs
@@ -40,6 +40,7 @@ MATEMATICA-UNINTER/
 |---------|------------------------|
 | [Fundamentos da Matemática](./semestre1/fundamentos-da-matematica/) | Trigonometria, logaritmos, sequências, geometria plana e espacial |
 | [Introdução à Geometria Analítica](./semestre1/introducao-a-geometria-analitica/) | Retas, cônicas, rotação de eixos e vetores no plano |
+| [Desvendando a Matemática](./semestre2/desvendando-a-matematica/) | Axiomas, equações, frações e fundamentos algébricos |
 | [Teorema da Engrenagem de BRAGA](./teorema-de-braga/) | Artigo sobre estrutura rank-1 e suas implementações em C |
 | [Manual de Bordo](./MANUAL-DE-BORDO.md) | O padrão de escrita que toda anotação da nave segue |
 
