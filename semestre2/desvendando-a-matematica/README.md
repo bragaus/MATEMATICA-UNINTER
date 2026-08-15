@@ -48,4 +48,3 @@ Cada arquivo segue a seguinte estrutura:
 
 Sinta-se livre para estudar, experimentar e ampliar estas anotações.  
 A nave Exodus aceita todos que buscam o conhecimento.
-
