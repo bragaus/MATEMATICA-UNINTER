@@ -41,6 +41,7 @@ MATEMATICA-UNINTER/
 | [Fundamentos da Matemática](./semestre1/fundamentos-da-matematica/) | Trigonometria, logaritmos, sequências, geometria plana e espacial |
 | [Introdução à Geometria Analítica](./semestre1/introducao-a-geometria-analitica/) | Retas, cônicas, rotação de eixos e vetores no plano |
 | [Desvendando a Matemática](./pre-calculo/desvendando-a-matematica/) | Base pré-cálculo: axiomas, equações, frações e fundamentos algébricos |
+| [Hall da Fama](./HALL-DA-FAMA.md) | Geometras e pensadores que abriram as rotas do conhecimento |
 | [Teorema da Engrenagem de BRAGA](./teorema-de-braga/) | Artigo sobre estrutura rank-1 e suas implementações em C |
 | [Manual de Bordo](./MANUAL-DE-BORDO.md) | O padrão de escrita que toda anotação da nave segue |
 
