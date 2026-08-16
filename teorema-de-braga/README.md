@@ -55,7 +55,19 @@ e pronto temos que ℬ(7) = 71625344352617
 para não ter que falar 1 kilo de texto sempre e explicar o caminho do pensar toda hora podemos resumir toda essa logica em:  
 
 $$
-\text{Braga}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), \; i \right)
+\text{ℬ}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), \; i \right)
 $$
 
 isso vale para qualquer numero sem virgula maior que 1 (eu to tentando ao maximo não usar nenhum jargão matematico kkk)
+
+para ajudar no trabalho dos fiscais de IA de plantão venho por meio deste dizer que usei o DEEPSEEK para chegar na FORMULA
+
+$$
+\text{ℬ}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), \; i \right)
+$$
+
+todo pensamento anterior foi escrito a proprio punho!
+
+não, não foi modelo pago, e uma dica em vez de usar IA para entender oque está sendo desvendado e/ou inventado agora; procure pensar por conta propria, IA não pensa mas você pode, experimente :) 
+
+(ela não tem dados para pesar a resposta, não foi treinada com nada parecido, logo é provavel que dê uma resposta negativa) 
